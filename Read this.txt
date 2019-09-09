@@ -1,0 +1,7 @@
+Run the "object_detection_webcam.py" file.
+
+make sure you have 
+	tensorflow, 
+	numpy , 
+	matplotlib,
+	and opencv  libraries installed in python.
